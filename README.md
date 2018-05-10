@@ -5,12 +5,12 @@ NOTE: This README.md was modified directly from: https://github.com/ageron/hands
 ================================================================================================================================
 # Azure Notebook: Online Access
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/anon-przsmg/libraries/APML-FITBIT)
-================================================================================================================================
+
 
 ================================================================================================================================
 # Local Installation
 Simply download the project folder and running Jupyter locally. Follow the installation instructions below.
-================================================================================================================================
+
 
 # Installation
 
